@@ -1,0 +1,20 @@
+{
+  "name": "loggingmiddleware-assingment",
+  "version": "1.0.0",
+  "description": "About logging Middleware",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "backend , reactjs"
+  },
+  "keywords": [
+    "test",
+    "api"
+  ],
+  "author": "pratibha singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.0"
+  }
+}
